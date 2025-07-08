@@ -1,4 +1,4 @@
-module github.com/zsais/go-gin-prometheus
+module github.com/a-random-lemurian/go-gin-prometheus
 
 go 1.24.3
 
